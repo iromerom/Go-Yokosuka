@@ -1,1 +1,84 @@
-"Aqu° va el .gitignore que te pasÇ" 
+# ===============================
+# Unity.gitignore - Versi√≥n adaptada
+# Basado en: https://github.com/github/gitignore/blob/main/Unity.gitignore
+# ===============================
+
+# Archivos generados autom√°ticamente por Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Meta archivos innecesarios
+*.blend1
+*.blend1.meta
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Memoria y grabaciones
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Archivos del Asset Store (opcional)
+# /Assets/AssetStoreTools*
+
+# Plugins de Rider (IDE)
+Assets/Plugins/Editor/JetBrains*
+
+# Visual Studio y otros IDEs
+.vs/
+.gradle/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Archivos generados en errores de Unity
+sysinfo.txt
+
+# Archivos de compilaci√≥n
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+*.app
+crashlytics-build.properties
+
+# Addressables empaquetados
+Assets/AddressableAssetsData/*/*.bin*
+
+# Archivos temporales de Android
+Assets/StreamingAssets/aa.meta
+Assets/StreamingAssets/aa/*
+
+# Archivos de Unity Visual Scripting
+Assets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db
+Assets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta
+Assets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers
+Assets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
+
+# ===============================
+# Ignorar carpetas Temp en cualquier ruta
+# ===============================
+Temp/
+*/Temp/
+Go!Yokosuka/Temp/
