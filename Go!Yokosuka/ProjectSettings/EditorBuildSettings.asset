@@ -12,12 +12,13 @@ EditorBuildSettings:
     path: Assets/Scenes/CR(1).unity
     guid: ad414e2c4ba12da41ac555a147b97635
   - enabled: 1
-    path: Assets/Scenes/LangMenu(2).unity
-    guid: 256477949784cd44d8cc15df9dffaefa
-  - enabled: 1
-    path: Assets/Scenes/Menu(3).unity
+    path: Assets/Scenes/Menu(2).unity
     guid: 6e4199fb845dbbc4fb542f13134ebbc8
+  - enabled: 1
+    path: Assets/Scenes/Settings(3).unity
+    guid: 256477949784cd44d8cc15df9dffaefa
   m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: a4942a64f09b62b458720e9634c0b763, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: fb4474c62807a1341ab3f63efef32788, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
