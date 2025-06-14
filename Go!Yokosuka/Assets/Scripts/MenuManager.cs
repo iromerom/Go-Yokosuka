@@ -22,20 +22,20 @@ public class MenuManager : MonoBehaviour
     // Empezar Partida //
     public void Play()
     {
-        SceneManager.LoadScene(4);
+        SceneManager.LoadScene(5);
 
     }
    
     // Acceder al menu de Opciones //
     public void Options()
     {
-        SceneManager.LoadScene(5);
+        SceneManager.LoadScene(3);
     }
 
     // Acceder la escena de Creditos //
     public void Credits()
     {
-        SceneManager.LoadScene(6);
+        SceneManager.LoadScene(4);
     }
 
     // Salir del juego //
@@ -48,12 +48,6 @@ public class MenuManager : MonoBehaviour
     public void ReturnMenu()
     {
         SceneManager.LoadScene(2);
-
-    }
-
-      public void SP()
-    {
-        SceneManager.LoadScene(3);
 
     }
 }
