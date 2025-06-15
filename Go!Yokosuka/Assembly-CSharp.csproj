@@ -64,6 +64,7 @@
     <Compile Include="Assets\Scripts\Intro.cs" />
     <Compile Include="Assets\Scripts\GoMenu.cs" />
     <Compile Include="Assets\Scripts\MenuManager.cs" />
+    <Compile Include="Assets\Scripts\Language.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
@@ -569,6 +570,10 @@
     </Reference>
     <Reference Include="Mono.Cecil">
       <HintPath>Library\PackageCache\com.unity.nuget.mono-cecil@d6f9955a5d5f\Mono.Cecil.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@74deb55db2a0\Runtime\Newtonsoft.Json.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
@@ -1087,6 +1092,10 @@
       <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.Addressables.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Addressables.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Searcher.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Searcher.Editor.dll</HintPath>
       <Private>False</Private>
@@ -1095,12 +1104,12 @@
       <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.AdaptivePerformance">
-      <HintPath>Library\ScriptAssemblies\Unity.AdaptivePerformance.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.AdaptivePerformance.Google.Android.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.AdaptivePerformance.Google.Android.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.AdaptivePerformance">
+      <HintPath>Library\ScriptAssemblies\Unity.AdaptivePerformance.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.AdaptivePerformance.Samsung.Android.Editor">
@@ -1113,6 +1122,10 @@
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Shaders">
       <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.ResourceManager">
+      <HintPath>Library\ScriptAssemblies\Unity.ResourceManager.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Notifications.Unified">
@@ -1159,6 +1172,10 @@
       <HintPath>Library\ScriptAssemblies\Unity.Multiplayer.Center.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.ScriptableBuildPipeline.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.ScriptableBuildPipeline.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.AdaptivePerformance.Simulator.Extension">
       <HintPath>Library\ScriptAssemblies\Unity.AdaptivePerformance.Simulator.Extension.dll</HintPath>
       <Private>False</Private>
@@ -1187,12 +1204,20 @@
       <HintPath>Library\ScriptAssemblies\Unity.AdaptivePerformance.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.ScriptableBuildPipeline">
+      <HintPath>Library\ScriptAssemblies\Unity.ScriptableBuildPipeline.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Collections">
       <HintPath>Library\ScriptAssemblies\Unity.Collections.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="PPv2URPConverters">
       <HintPath>Library\ScriptAssemblies\PPv2URPConverters.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Addressables">
+      <HintPath>Library\ScriptAssemblies\Unity.Addressables.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Rendering.LightTransport.Editor">
@@ -1287,6 +1312,10 @@
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.Localization.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Localization.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
       <Private>False</Private>
@@ -1299,12 +1328,12 @@
       <HintPath>Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.VisualStudio.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.AdaptivePerformance.Simulator.VRR.Extension">
       <HintPath>Library\ScriptAssemblies\Unity.AdaptivePerformance.Simulator.VRR.Extension.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualStudio.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime">
@@ -1317,6 +1346,10 @@
     </Reference>
     <Reference Include="Unity.Rendering.LightTransport.Runtime">
       <HintPath>Library\ScriptAssemblies\Unity.Rendering.LightTransport.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Localization">
+      <HintPath>Library\ScriptAssemblies\Unity.Localization.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Notifications.iOS">
@@ -1333,6 +1366,50 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="SimpleInterfaceTranslateApi.csproj">
+      <Project>{E752F4E4-6965-050E-630B-0D3DC82C1BA0}</Project>
+      <Name>SimpleInterfaceTranslateApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="AutoTranslate.csproj">
+      <Project>{9DF060B2-5E7E-FF44-8329-21871B3E0F5D}</Project>
+      <Name>AutoTranslate</Name>
+    </ProjectReference>
+    <ProjectReference Include="AutoTranslateUI.csproj">
+      <Project>{EB970390-C643-3CE3-3A84-D0445F02A198}</Project>
+      <Name>AutoTranslateUI</Name>
+    </ProjectReference>
+    <ProjectReference Include="AddLocalization.csproj">
+      <Project>{23EC593E-8799-3C29-1F34-5208289162D8}</Project>
+      <Name>AddLocalization</Name>
+    </ProjectReference>
+    <ProjectReference Include="SimpleLocalization.csproj">
+      <Project>{E6E60FFD-D44A-FB6C-300B-8ECAE3734AC5}</Project>
+      <Name>SimpleLocalization</Name>
+    </ProjectReference>
+    <ProjectReference Include="Helpers.csproj">
+      <Project>{00405606-70D9-A20D-FA13-DC15859E87EF}</Project>
+      <Name>Helpers</Name>
+    </ProjectReference>
+    <ProjectReference Include="TranslateLocalization.csproj">
+      <Project>{2452C0A9-4790-764A-5BF6-FE3926621E62}</Project>
+      <Name>TranslateLocalization</Name>
+    </ProjectReference>
+    <ProjectReference Include="GUIPro.csproj">
+      <Project>{7EF21B10-9FF3-4C4C-3853-7BC5B078B74A}</Project>
+      <Name>GUIPro</Name>
+    </ProjectReference>
+    <ProjectReference Include="SupportTextMeshPro.csproj">
+      <Project>{42D5B74A-2C6F-968A-8D4F-429116FFE7A8}</Project>
+      <Name>SupportTextMeshPro</Name>
+    </ProjectReference>
+    <ProjectReference Include="AutoTranslateEditor.csproj">
+      <Project>{4F01E8AF-3658-3B31-0A4C-619D0355B4FE}</Project>
+      <Name>AutoTranslateEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="GoogleApiFree.csproj">
+      <Project>{C5456C17-C0E8-179A-DEB2-C5FCD7C8AE47}</Project>
+      <Name>GoogleApiFree</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
