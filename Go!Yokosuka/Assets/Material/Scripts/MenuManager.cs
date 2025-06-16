@@ -24,7 +24,7 @@ public class MenuManager : MonoBehaviour
    
 
     ///////////////////////////////////////////
-    ///FUNCIONES DE BOTONES///
+            ///FUNCIONES DE BOTONES///
     ///////////////////////////////////////////
 
     // Empezar Partida //
