@@ -121,12 +121,254 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: AssetsDobuita_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1493
+        width: 510
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5e49da84ed24744ba8a712b817ee6c
+      internalID: -2105355878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsDobuita_1
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1527
+        width: 491
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67910e5ea34f9b340865ebe04b7a8719
+      internalID: -502685616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsDobuita_2
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1524
+        width: 445
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5083184d5109aec4a8569f3ebf377a43
+      internalID: -1364968179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsDobuita_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1006
+        width: 468
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1c357a4c947424c8a00ae2f812b1dc
+      internalID: 168982433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsDobuita_4
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 992
+        width: 452
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773c9658433fe8740ad67bc8355123a2
+      internalID: -2035151452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsDobuita_5
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 967
+        width: 338
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03aeeaab2c3b58f47b6c78278f17fa19
+      internalID: -37952543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsDobuita_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 460
+        width: 459
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f551f69eb123f4dae4e217dc8a567a
+      internalID: 1410076980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsDobuita_7
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 456
+        width: 519
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff976897f08151940b0f7365b67f98a4
+      internalID: -685332057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsDobuita_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 498
+        width: 496
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824640740140c7841a10d7a34868b3ff
+      internalID: 1259078081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsDobuita_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 458
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221a43dd0c7a37c4b848db3045c6a01f
+      internalID: -597537359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetsDobuita_10
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 0
+        width: 485
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfacb52a6325b643b86c057463e8ad1
+      internalID: 1434401894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 22ac2eba4c7cb21409b01663983b158a
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +377,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AssetsDobuita_0: -2105355878
+      AssetsDobuita_1: -502685616
+      AssetsDobuita_10: 1434401894
+      AssetsDobuita_2: -1364968179
+      AssetsDobuita_3: 168982433
+      AssetsDobuita_4: -2035151452
+      AssetsDobuita_5: -37952543
+      AssetsDobuita_6: 1410076980
+      AssetsDobuita_7: -685332057
+      AssetsDobuita_8: 1259078081
+      AssetsDobuita_9: -597537359
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
