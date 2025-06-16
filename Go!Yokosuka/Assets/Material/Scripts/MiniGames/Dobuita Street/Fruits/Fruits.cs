@@ -33,7 +33,7 @@ public class Fruits : MonoBehaviour
 
     private void MoveDown()
     {
-        float step = 350f * Time.deltaTime;  // La velocidad del movimiento
+        float step = 200f * Time.deltaTime;  // La velocidad del movimiento
         // Mueve el objeto hacia el objetivo (target) de manera suave
         transform.position = Vector3.MoveTowards(transform.position, target, step);
     }

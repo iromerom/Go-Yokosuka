@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\Material\Scripts\SettingMenu.cs" />
     <Compile Include="Assets\Material\Scripts\Language.cs" />
+    <Compile Include="Assets\Material\Scripts\MiniGames\Dobuita Street\Manager\FruitManager.cs" />
     <Compile Include="Assets\Material\Scripts\Intro.cs" />
     <Compile Include="Assets\Material\Scripts\MenuManager.cs" />
     <Compile Include="Assets\Material\Music\MusicManager.cs" />
