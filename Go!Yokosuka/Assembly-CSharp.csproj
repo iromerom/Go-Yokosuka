@@ -66,6 +66,7 @@
     <Compile Include="Assets\Material\Scripts\Intro.cs" />
     <Compile Include="Assets\Material\Scripts\MenuManager.cs" />
     <Compile Include="Assets\Material\Music\MusicManager.cs" />
+    <Compile Include="Assets\Material\Scripts\MiniGames\Dobuita Street\Fruits\Fruits.cs" />
     <Compile Include="Assets\Material\Scripts\GoMenu.cs" />
   </ItemGroup>
   <ItemGroup>
