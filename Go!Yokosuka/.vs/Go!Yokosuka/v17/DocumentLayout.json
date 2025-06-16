@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\Assets\\Scripts\\MenuManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MenuManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\Assets\\Material\\Scripts\\SettingMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Material\\Scripts\\SettingMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\Library\\PackageCache\\com.unity.adaptiveperformance@2961d8aca93b\\Runtime\\Management\\AdaptivePerformanceManagerSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.adaptiveperformance@2961d8aca93b\\Runtime\\Management\\AdaptivePerformanceManagerSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\Assets\\Material\\Music\\MusicManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Material\\Music\\MusicManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\Assets\\Material\\Scripts\\MenuManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Material\\Scripts\\MenuManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\Assets\\Material\\Scripts\\Language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Material\\Scripts\\Language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MenuManager.cs",
-              "DocumentMoniker": "C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\Assets\\Scripts\\MenuManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuManager.cs",
-              "ToolTip": "C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\Assets\\Scripts\\MenuManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MenuManager.cs",
+              "Title": "SettingMenu.cs",
+              "DocumentMoniker": "C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\Assets\\Material\\Scripts\\SettingMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Material\\Scripts\\SettingMenu.cs",
+              "ToolTip": "C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\Assets\\Material\\Scripts\\SettingMenu.cs",
+              "RelativeToolTip": "Assets\\Material\\Scripts\\SettingMenu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T15:55:02.31Z",
+              "WhenOpened": "2025-06-16T06:42:27.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Language.cs",
+              "DocumentMoniker": "C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\Assets\\Material\\Scripts\\Language.cs",
+              "RelativeDocumentMoniker": "Assets\\Material\\Scripts\\Language.cs",
+              "ToolTip": "C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\Assets\\Material\\Scripts\\Language.cs",
+              "RelativeToolTip": "Assets\\Material\\Scripts\\Language.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:26:29.843Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AdaptivePerformanceManagerSettings.cs",
-              "DocumentMoniker": "C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\Library\\PackageCache\\com.unity.adaptiveperformance@2961d8aca93b\\Runtime\\Management\\AdaptivePerformanceManagerSettings.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.adaptiveperformance@2961d8aca93b\\Runtime\\Management\\AdaptivePerformanceManagerSettings.cs",
-              "ToolTip": "C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\Library\\PackageCache\\com.unity.adaptiveperformance@2961d8aca93b\\Runtime\\Management\\AdaptivePerformanceManagerSettings.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.adaptiveperformance@2961d8aca93b\\Runtime\\Management\\AdaptivePerformanceManagerSettings.cs",
-              "ViewState": "AgIAAO8AAAAAAAAAAAASwAkBAAAhAAAAAAAAAA==",
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\Assets\\Material\\Music\\MusicManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Material\\Music\\MusicManager.cs",
+              "ToolTip": "C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\Assets\\Material\\Music\\MusicManager.cs",
+              "RelativeToolTip": "Assets\\Material\\Music\\MusicManager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T14:41:54.952Z",
+              "WhenOpened": "2025-06-16T05:59:40.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\Assets\\Material\\Scripts\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Material\\Scripts\\MenuManager.cs",
+              "ToolTip": "C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\Assets\\Material\\Scripts\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\Material\\Scripts\\MenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T05:28:28.279Z",
               "EditorCaption": ""
             }
           ]

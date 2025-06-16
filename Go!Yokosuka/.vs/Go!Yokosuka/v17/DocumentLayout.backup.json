@@ -1,12 +1,70 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\Assets\\Scripts\\Language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\Assets\\Scripts\\MenuManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MenuManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\Library\\PackageCache\\com.unity.adaptiveperformance@2961d8aca93b\\Runtime\\Management\\AdaptivePerformanceManagerSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.adaptiveperformance@2961d8aca93b\\Runtime\\Management\\AdaptivePerformanceManagerSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Language.cs",
+              "DocumentMoniker": "C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\Assets\\Scripts\\Language.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Language.cs",
+              "ToolTip": "C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\Assets\\Scripts\\Language.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Language.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T19:50:45.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuManager.cs",
+              "ToolTip": "C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:55:02.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdaptivePerformanceManagerSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\Library\\PackageCache\\com.unity.adaptiveperformance@2961d8aca93b\\Runtime\\Management\\AdaptivePerformanceManagerSettings.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.adaptiveperformance@2961d8aca93b\\Runtime\\Management\\AdaptivePerformanceManagerSettings.cs",
+              "ToolTip": "C:\\Users\\ivani\\Documents\\GitHub\\Go-Yokosuka\\Go!Yokosuka\\Library\\PackageCache\\com.unity.adaptiveperformance@2961d8aca93b\\Runtime\\Management\\AdaptivePerformanceManagerSettings.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.adaptiveperformance@2961d8aca93b\\Runtime\\Management\\AdaptivePerformanceManagerSettings.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAASwAkBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:41:54.952Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
