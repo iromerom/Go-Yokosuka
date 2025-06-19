@@ -54,6 +54,14 @@ MonoBehaviour:
     m_Localized: Agradecimientos especiales a
     m_Metadata:
       m_Items: []
+  - m_Id: 1345346676629504
+    m_Localized: "Atr\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1345385083871232
+    m_Localized: "Modo Dalt\xF3nico"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

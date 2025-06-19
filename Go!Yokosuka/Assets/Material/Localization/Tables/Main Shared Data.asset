@@ -51,6 +51,14 @@ MonoBehaviour:
     m_Key: Special _Key
     m_Metadata:
       m_Items: []
+  - m_Id: 1345346676629504
+    m_Key: Back_Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1345385083871232
+    m_Key: Color_Key
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

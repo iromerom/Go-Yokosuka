@@ -7,10 +7,13 @@ using TMPro;
 using UnityEngine.Audio;
 
 // IVAN ROMERO MOYANO //
+
+
 public class Fruits : MonoBehaviour
 {
-    private const int targetY = -20;  // Este es el valor fijo que quieres para Y
-    Vector3 target;  // Esta es la posición final del objeto
+    private const float targetY = -20f;  // Este es el valor fijo que quieres para Y
+    private Vector3 target;  // Esta es la posición final del objeto
+    private float moveSpeed = 5f;  // Controla la velocidad de movimiento
 
     private void Awake()
     {
@@ -33,7 +36,7 @@ public class Fruits : MonoBehaviour
 
     private void MoveDown()
     {
-        float step = 20f * Time.deltaTime;  // La velocidad del movimiento
+        float step = moveSpeed * Time.deltaTime;  // La velocidad del movimiento
         // Mueve el objeto hacia el objetivo (target) de manera suave
         transform.position = Vector3.MoveTowards(transform.position, target, step);
     }
