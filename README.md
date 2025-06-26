@@ -18,21 +18,6 @@ A través de la geolocalización, acertijos interactivos y una narrativa inmersi
 
 ---
 
-## **Resumen del flujo del juego**
-
-1. **Introducción narrativa en el parque Mikasa.**
-2. **Primer viaje temporal a Sarushima.**
-3. **Exploración libre de sitios históricos mediante geolocalización**, guiada por puntos de interés y misiones interactivas.
-4. **Realización de minijuegos** en cada ubicación.
-5. **Viajes entre épocas** para corregir distorsiones temporales y aprender de cada época.
-6. **Restauración progresiva del flujo del tiempo.**
-7. **Final: restauración completa.**
-
-Cada bloque de misiones sigue el siguiente proceso:
-> **Introducción ➔ Exploración ➔ Desafío ➔ Retroalimentación ➔ Recompensa.**
-
----
-
 ## **Core Pillars**
 
 - **Exploración a través de la Geolocalización:** El jugador se mueve por la ciudad de Yokosuka, accediendo a puntos de interés, desbloqueando minijuegos y enfrentándose a desafíos interactivos al llegar a cada lugar.
@@ -43,6 +28,13 @@ Cada bloque de misiones sigue el siguiente proceso:
 
 ---
 
+## **Público objetivo**
+
+- **Turistas**: Personas que visitan Yokosuka, buscando experiencias inmersivas y educativas para descubrir la cultura local.
+- **Residentes locales**: Habitantes de Yokosuka interesados en conocer más sobre la historia y cultura de la ciudad.
+- **Comerciantes locales**: Negocios establecidos en Yokosuka que quieren participar de manera directa o indirecta en esta experiencia.
+
+---
 ## **Objetivos del juego relacionados con el fomento del turismo**
 
 - **Fomentar la exploración activa** de lugares importantes de Yokosuka.
@@ -53,34 +45,6 @@ Cada bloque de misiones sigue el siguiente proceso:
 - **Conectar pasado y presente**, mostrando al jugador cómo ha ido evolucionando Yokosuka a través de las épocas de manera lúdica.
 
 ---
-
-## **Objetivos a corto y largo plazo**
-
-**Corto plazo:**
-
-- Resolver el minijuego activo en una ubicación determinada.
-- Obtener el sello correspondiente a un punto turístico.
-- Superar un obstáculo narrativo inmediato (descifrar un código, encontrar un objeto, etc.).
-- Recibir pistas de Sukarin sobre nuevos lugares por explorar.
-
-**Largo plazo:**
-
-- Completar todas las rutas temáticas disponibles.
-- Coleccionar todos los sellos del juego.
-- Reconstruir la historia de Yokosuka restaurando el orden cronológico.
-- Contribuir al turismo responsable aprendiendo sobre la ciudad y compartiendo la experiencia.
-- Ayudar al mono blanco a regresar a Sarushima y cerrar la grieta temporal.
-
----
-
-## **Público objetivo**
-
-- **Turistas**: Personas que visitan Yokosuka, buscando experiencias inmersivas y educativas para descubrir la cultura local.
-- **Residentes locales**: Habitantes de Yokosuka interesados en conocer más sobre la historia y cultura de la ciudad.
-- **Comerciantes locales**: Negocios establecidos en Yokosuka que quieren participar de manera directa o indirecta en esta experiencia.
-
----
-
 ## **Género y Plataforma**
 
 - **Género**: Serious game turístico con componentes de aventura, exploración, narrativa histórica y escape room.
