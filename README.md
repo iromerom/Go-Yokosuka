@@ -48,9 +48,13 @@ A través de la geolocalización, acertijos interactivos y una narrativa inmersi
 ## **Core Pillars**
 
 - **Exploración a través de la Geolocalización:** El jugador se mueve por la ciudad de Yokosuka, accediendo a puntos de interés, desbloqueando minijuegos y enfrentándose a desafíos interactivos al llegar a cada lugar.
+  
 - **Aprendizaje a través de Interacciones Inmersivas:** El jugador aprende sobre la historia de Yokosuka mediante la interacción con personajes y minijuegos que enseñan sobre el patrimonio variado de la ciudad.
+  
 - **Diversión a través de Desafíos y Logros:** Minijuegos divertidos y desafíos que combinan aprendizaje con entretenimiento, con recompensas y logros que mantienen la motivación del jugador.
+  
 - **Colección y Progreso:** El jugador colecciona sellos que vinculan su progreso y fomentan tanto la exploración como el aprendizaje continuo.
+  
 - **Fomento de Prácticas Sostenibles y Ecológicas:** Incentivar el uso de medios de transporte sostenibles a través de recomendaciones del narrador. Algunas misiones están relacionadas con el respeto al medio ambiente.
 
 ---
