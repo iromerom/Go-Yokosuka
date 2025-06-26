@@ -21,7 +21,7 @@ A través de la geolocalización, acertijos interactivos y una narrativa inmersi
 
 <div style="text-align: center;">
   <!-- Fila 1 -->
-  <img src="https://github.com/user-attachments/assets/4e3136e1-237e-4db8-812a-156e7e213bef" alt="Captura del juego 1" width="400" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/5e0de061-276e-4311-9c0f-4028cbbf2eb1" alt="Captura del juego 1" width="400" style="margin: 10px;"/>
   <img src="https://github.com/user-attachments/assets/498ced54-a222-4aa9-b77f-48b31aaa0835" alt="Captura del juego 2" width="400" style="margin: 10px;"/>
 </div>
 
