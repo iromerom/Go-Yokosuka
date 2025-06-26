@@ -17,6 +17,28 @@ Visita nuestra página web: [narogames.com](https://sites.google.com/view/naroga
 A través de la geolocalización, acertijos interactivos y una narrativa inmersiva, los jugadores deben restaurar el equilibrio del tiempo completando misiones históricas basadas en hechos reales. Cada misión conecta al jugador con el patrimonio cultural y natural de la localidad, incentivando el turismo sostenible y el descubrimiento de la historia local.
 
 ---
+### Capturas del juego:
+
+<div style="text-align: center;">
+  <!-- Primera fila de imágenes -->
+  <img src="https://github.com/user-attachments/assets/4e3136e1-237e-4db8-812a-156e7e213bef" alt="Captura del juego 1" width="350" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/498ced54-a222-4aa9-b77f-48b31aaa0835" alt="Captura del juego 2" width="350" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/ea66b383-c3d4-4847-885a-1c7cea6d8178" alt="Captura del juego 3" width="350" style="margin: 10px;"/>
+</div>
+
+<div style="text-align: center;">
+  <!-- Segunda fila de imágenes -->
+  <img src="https://github.com/user-attachments/assets/68d4c7ec-58ca-4010-99ca-7d4ed6c21116" alt="Captura del juego 4" width="350" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/7982146f-9b87-4bf0-8f1c-10a1125ff8e7" alt="Captura del juego 5" width="350" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/cc940417-db04-48cc-a053-04cee3277d47" alt="Captura del juego 6" width="350" style="margin: 10px;"/>
+</div>
+
+<div style="text-align: center;">
+  <!-- Tercera fila de imágenes -->
+  <img src="https://github.com/user-attachments/assets/9c4891c9-9473-4cde-98d6-bb1c61e77304" alt="Captura del juego 7" width="350" style="margin: 10px;"/>
+</div>
+
+---
 
 ## **Core Pillars**
 
@@ -35,6 +57,16 @@ A través de la geolocalización, acertijos interactivos y una narrativa inmersi
 - **Comerciantes locales**: Negocios establecidos en Yokosuka que quieren participar de manera directa o indirecta en esta experiencia.
 
 ---
+## **Género y Plataforma**
+
+- **Género**: Serious game turístico con componentes de aventura, exploración, narrativa histórica y escape room.
+- **Plataforma**: Dispositivos móviles (Android e iOS).
+  - Android (Google Play Store)
+  - iOS (Apple App Store)
+- **Número de jugadores**: Un jugador (experiencia individual). Compartir logros en redes sociales es posible.
+
+---
+
 ## **Objetivos del juego relacionados con el fomento del turismo**
 
 - **Fomentar la exploración activa** de lugares importantes de Yokosuka.
@@ -44,14 +76,6 @@ A través de la geolocalización, acertijos interactivos y una narrativa inmersi
 - **Aumentar el tiempo de estancia por turista** en la ciudad.
 - **Conectar pasado y presente**, mostrando al jugador cómo ha ido evolucionando Yokosuka a través de las épocas de manera lúdica.
 
----
-## **Género y Plataforma**
-
-- **Género**: Serious game turístico con componentes de aventura, exploración, narrativa histórica y escape room.
-- **Plataforma**: Dispositivos móviles (Android e iOS).
-  - Android (Google Play Store)
-  - iOS (Apple App Store)
-- **Número de jugadores**: Un jugador (experiencia individual). Compartir logros en redes sociales es posible.
 
 ---
 
