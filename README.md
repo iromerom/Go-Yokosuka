@@ -108,11 +108,15 @@ Cada bloque de misiones sigue el siguiente proceso:
 - **[Página web de Naro Games](https://sites.google.com/view/narogames/home)**
 - **[LinkedIn de Naro Games](https://www.linkedin.com/company/narogames/)**
 
-
 ### Logo de **Naro Games** (marca personal):
 
-![Naro](https://github.com/user-attachments/assets/d0a6a46e-6062-46b9-adae-1af34d19cbf0)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/d0a6a46e-6062-46b9-adae-1af34d19cbf0" alt="Naro Games" width="400"/>
+</div>
 
 ### Logo de **CITM** (Dirección TFG):
 
-![logo-citm](https://github.com/user-attachments/assets/702c8131-e292-4d2f-9a00-9070e63618fe)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/702c8131-e292-4d2f-9a00-9070e63618fe" alt="CITM" width="400"/>
+</div>
+
