@@ -12,9 +12,10 @@ Visita nuestra página web: [narogames.com](https://sites.google.com/view/naroga
 
 ## **Sinopsis**
 
-**GO! Yokosuka** es un serious game turístico, donde los jugadores son transportados a través de distintas épocas en la ciudad de Yokosuka debido a una anomalía temporal. Siempre serán guiados por “Sukarin”, la mascota local.
+**GO! Yokosuka es un serious game turístico, donde los jugadores son transportados a través de distintas épocas en la ciudad de Yokosuka debido a una anomalía temporal, donde el jugador siempre es guiado por “Sukarin”, la mascota local. 
 
 A través de la geolocalización, acertijos interactivos y una narrativa inmersiva, los jugadores deben restaurar el equilibrio del tiempo completando misiones históricas basadas en hechos reales. Cada misión conecta al jugador con el patrimonio cultural y natural de la localidad, incentivando el turismo sostenible y el descubrimiento de la historia local.
+
 
 ---
 ### Capturas del juego:
@@ -91,7 +92,7 @@ A través de la geolocalización, acertijos interactivos y una narrativa inmersi
 
 ---
 
-### Logo de **Naro Games** (marca personal) y **CITM** (Dirección TFG):
+### Logo de **Naro Games** (Marca Personal) y **CITM** (Dirección TFG):
 
 <div style="text-align: center;">
   <div style="display: inline-block; margin-right: 20px;">
