@@ -4,17 +4,18 @@
   <img src="https://github.com/user-attachments/assets/fdda9c30-10f0-4d8a-b015-1a1c8e275fbc" alt="Go!Yokosuka" width="400"/>
 </div>
 
-### Creado por [Naro Games (Ivan Romero)](https://www.linkedin.com/in/ivanromeromoyano/)
+### Creado por [Naro Games (Iván Romero)](https://www.linkedin.com/in/ivanromeromoyano/){:target="_blank"}
 
-Visita nuestra página web: [narogames.com](https://sites.google.com/view/narogames/home)
+Visita nuestra página web: [narogames.com](https://sites.google.com/view/narogames/home){:target="_blank"}
 
 ---
 
 ## **Sinopsis**
 
-**GO! Yokosuka** es un serious game turístico que transporta a los jugadores a través de distintas épocas en la ciudad de Yokosuka debido a una anomalía temporal. Los jugadores siempre son guiados por **Sukarin**, la mascota local. 
+**GO! Yokosuka** es un serious game turístico, donde los jugadores son transportados a través de distintas épocas en la ciudad de Yokosuka debido a una anomalía temporal, donde el jugador siempre es guiado por “Sukarin”, la mascota local. 
 
 A través de la geolocalización, acertijos interactivos y una narrativa inmersiva, los jugadores deben restaurar el equilibrio del tiempo completando misiones históricas basadas en hechos reales. Cada misión conecta al jugador con el patrimonio cultural y natural de la localidad, incentivando el turismo sostenible y el descubrimiento de la historia local.
+
 
 ---
 
@@ -107,8 +108,8 @@ A través de la geolocalización, acertijos interactivos y una narrativa inmersi
 
 ## **Enlaces de interés**
 
-- **[Página web de Naro Games](https://sites.google.com/view/narogames/home)**
-- **[LinkedIn de Naro Games](https://www.linkedin.com/company/narogames/)**
-- **[Página web de CITM](https://www.citm.upc.edu/)**
+- **[Página web de Naro Games](https://sites.google.com/view/narogames/home){:target="_blank"}**
+- **[LinkedIn de Naro Games](https://www.linkedin.com/company/narogames/){:target="_blank"}**
+- **[Página web de CITM](https://www.citm.upc.edu/){:target="_blank"}**
 
 ---
