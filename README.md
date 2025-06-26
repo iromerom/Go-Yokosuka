@@ -1,8 +1,10 @@
+# GO! Yokosuka
+
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/fdda9c30-10f0-4d8a-b015-1a1c8e275fbc" alt="Go!Yokosuka" width="400"/>
 </div>
 
-### Creado por [Naro Games (Ivan Romero)](https://www.linkedin.com/company/narogames/)
+### Creado por [Naro Games (Ivan Romero)](https://www.linkedin.com/in/ivanromeromoyano/)
 
 Visita nuestra página web: [narogames.com](https://sites.google.com/view/narogames/home)
 
@@ -10,13 +12,13 @@ Visita nuestra página web: [narogames.com](https://sites.google.com/view/naroga
 
 ## **Sinopsis**
 
-GO! Yokosuka es un serious game turístico, donde los jugadores son transportados a través de distintas épocas en la ciudad de Yokosuka debido a una anomalía temporal, donde el jugador siempre es guiado por “Sukarin”, la mascota local. 
+**GO! Yokosuka** es un serious game turístico que transporta a los jugadores a través de distintas épocas en la ciudad de Yokosuka debido a una anomalía temporal. Los jugadores siempre son guiados por **Sukarin**, la mascota local. 
 
 A través de la geolocalización, acertijos interactivos y una narrativa inmersiva, los jugadores deben restaurar el equilibrio del tiempo completando misiones históricas basadas en hechos reales. Cada misión conecta al jugador con el patrimonio cultural y natural de la localidad, incentivando el turismo sostenible y el descubrimiento de la historia local.
 
-
 ---
-### Capturas del juego:
+
+### **Capturas del juego**
 
 <div style="text-align: center;">
   <!-- Fila 1 -->
@@ -35,12 +37,12 @@ A través de la geolocalización, acertijos interactivos y una narrativa inmersi
   <img src="https://github.com/user-attachments/assets/7982146f-9b87-4bf0-8f1c-10a1125ff8e7" alt="Captura del juego 5" width="400" style="margin: 10px;"/>
   <img src="https://github.com/user-attachments/assets/cc940417-db04-48cc-a053-04cee3277d47" alt="Captura del juego 6" width="400" style="margin: 10px;"/>
 </div>
+
 <div style="text-align: center;">
   <!-- Fila 4 -->
   <img src="https://github.com/user-attachments/assets/9c4891c9-9473-4cde-98d6-bb1c61e77304" alt="Captura del juego 7" width="400" style="margin: 10px;"/>
   <img src="https://github.com/user-attachments/assets/4e3136e1-237e-4db8-812a-156e7e213bef" alt="Captura del juego 8" width="400" style="margin: 10px;"/>
 </div>
-
 
 ---
 
@@ -56,18 +58,19 @@ A través de la geolocalización, acertijos interactivos y una narrativa inmersi
 
 ## **Público objetivo**
 
-- **Turistas**: Personas que visitan Yokosuka, buscando experiencias inmersivas y educativas para descubrir la cultura local.
-- **Residentes locales**: Habitantes de Yokosuka interesados en conocer más sobre la historia y cultura de la ciudad.
-- **Comerciantes locales**: Negocios establecidos en Yokosuka que quieren participar de manera directa o indirecta en esta experiencia.
+- **Turistas:** Personas que visitan Yokosuka, buscando experiencias inmersivas y educativas para descubrir la cultura local.
+- **Residentes locales:** Habitantes de Yokosuka interesados en conocer más sobre la historia y cultura de la ciudad.
+- **Comerciantes locales:** Negocios establecidos en Yokosuka que quieren participar de manera directa o indirecta en esta experiencia.
 
 ---
+
 ## **Género y Plataforma**
 
-- **Género**: Serious game turístico con componentes de aventura, exploración, narrativa histórica y escape room.
-- **Plataforma**: Dispositivos móviles (Android e iOS).
+- **Género:** Serious game turístico con componentes de aventura, exploración, narrativa histórica y escape room.
+- **Plataforma:** Dispositivos móviles (Android e iOS).
   - Android (Google Play Store)
   - iOS (Apple App Store)
-- **Número de jugadores**: Un jugador (experiencia individual). Compartir logros en redes sociales es posible.
+- **Número de jugadores:** Un jugador (experiencia individual). Compartir logros en redes sociales es posible.
 
 ---
 
@@ -80,17 +83,16 @@ A través de la geolocalización, acertijos interactivos y una narrativa inmersi
 - **Aumentar el tiempo de estancia por turista** en la ciudad.
 - **Conectar pasado y presente**, mostrando al jugador cómo ha ido evolucionando Yokosuka a través de las épocas de manera lúdica.
 
-
 ---
 
 ## **Controles**
 
-- **Interacción táctil** (tap, swipe, zoom).
-- **Botones virtuales** para pistas, el mapa y misiones.
+- **Interacción táctil:** (tap, swipe, zoom).
+- **Botones virtuales:** Para pistas, el mapa y misiones.
 
 ---
 
-### Logo de **Naro Games** (Marca Personal) y **CITM** (Dirección TFG):
+### **Logos de Naro Games** (Marca Personal) y **CITM** (Dirección TFG):
 
 <div style="text-align: center;">
   <div style="display: inline-block; margin-right: 20px;">
@@ -102,6 +104,7 @@ A través de la geolocalización, acertijos interactivos y una narrativa inmersi
 </div>
 
 ---
+
 ## **Enlaces de interés**
 
 - **[Página web de Naro Games](https://sites.google.com/view/narogames/home)**
