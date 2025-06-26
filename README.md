@@ -21,7 +21,7 @@ A través de la geolocalización, acertijos interactivos y una narrativa inmersi
 
 <div style="text-align: center;">
   <!-- Fila 1 -->
-  <img src="[https://github.com/user-attachments/assets/4e3136e1-237e-4db8-812a-156e7e213bef](https://github.com/user-attachments/assets/8a58901d-b2a8-486e-bafd-62714f352b54)" alt="Captura del juego 1" width="400" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/4e3136e1-237e-4db8-812a-156e7e213bef" alt="Captura del juego 1" width="400" style="margin: 10px;"/>
   <img src="https://github.com/user-attachments/assets/498ced54-a222-4aa9-b77f-48b31aaa0835" alt="Captura del juego 2" width="400" style="margin: 10px;"/>
 </div>
 
@@ -39,7 +39,7 @@ A través de la geolocalización, acertijos interactivos y una narrativa inmersi
 <div style="text-align: center;">
   <!-- Fila 4 -->
   <img src="https://github.com/user-attachments/assets/9c4891c9-9473-4cde-98d6-bb1c61e77304" alt="Captura del juego 7" width="400" style="margin: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/4e3136e1-237e-4db8-812a-156e7e213bef" alt="Captura del juego 1" width="400" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/4e3136e1-237e-4db8-812a-156e7e213bef" alt="Captura del juego 8" width="400" style="margin: 10px;"/>
 </div>
 
 
