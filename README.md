@@ -1,8 +1,11 @@
 # GO! Yokosuka
 
-![Go! Yokosuka](https://github.com/user-attachments/assets/fdda9c30-10f0-4d8a-b015-1a1c8e275fbc)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/fdda9c30-10f0-4d8a-b015-1a1c8e275fbc" alt="Go!Yokosuka" width="400"/>
+</div>
 
-### Creado por [Naro Games](https://www.linkedin.com/company/narogames/)
+
+### Creado por [Naro Games (Ivan Romero)](https://www.linkedin.com/company/narogames/)
 
 Visita nuestra página web: [narogames.com](https://sites.google.com/view/narogames/home)
 
@@ -104,3 +107,12 @@ Cada bloque de misiones sigue el siguiente proceso:
 
 - **[Página web de Naro Games](https://sites.google.com/view/narogames/home)**
 - **[LinkedIn de Naro Games](https://www.linkedin.com/company/narogames/)**
+
+
+### Logo de **Naro Games** (marca personal):
+
+![Naro](https://github.com/user-attachments/assets/d0a6a46e-6062-46b9-adae-1af34d19cbf0)
+
+### Logo de **CITM** (Dirección TFG):
+
+![logo-citm](https://github.com/user-attachments/assets/702c8131-e292-4d2f-9a00-9070e63618fe)
