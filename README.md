@@ -102,6 +102,7 @@ Cada bloque de misiones sigue el siguiente proceso:
 
 - **[Página web de Naro Games](https://sites.google.com/view/narogames/home)**
 - **[LinkedIn de Naro Games](https://www.linkedin.com/company/narogames/)**
+- **[Página web de CITM](https://www.citm.upc.edu/)**
 
 ---
 
@@ -117,5 +118,3 @@ Cada bloque de misiones sigue el siguiente proceso:
 </div>
 
 ---
-
-**Página web CITM**: [CITM](https://www.citm.upc.edu/)
