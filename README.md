@@ -4,7 +4,6 @@
   <img src="https://github.com/user-attachments/assets/fdda9c30-10f0-4d8a-b015-1a1c8e275fbc" alt="Go!Yokosuka" width="400"/>
 </div>
 
-
 ### Creado por [Naro Games (Ivan Romero)](https://www.linkedin.com/company/narogames/)
 
 Visita nuestra página web: [narogames.com](https://sites.google.com/view/narogames/home)
@@ -37,13 +36,9 @@ Cada bloque de misiones sigue el siguiente proceso:
 ## **Core Pillars**
 
 - **Exploración a través de la Geolocalización:** El jugador se mueve por la ciudad de Yokosuka, accediendo a puntos de interés, desbloqueando minijuegos y enfrentándose a desafíos interactivos al llegar a cada lugar.
-
 - **Aprendizaje a través de Interacciones Inmersivas:** El jugador aprende sobre la historia de Yokosuka mediante la interacción con personajes y minijuegos que enseñan sobre el patrimonio variado de la ciudad.
-
 - **Diversión a través de Desafíos y Logros:** Minijuegos divertidos y desafíos que combinan aprendizaje con entretenimiento, con recompensas y logros que mantienen la motivación del jugador.
-
 - **Colección y Progreso:** El jugador colecciona sellos que vinculan su progreso y fomentan tanto la exploración como el aprendizaje continuo.
-
 - **Fomento de Prácticas Sostenibles y Ecológicas:** Incentivar el uso de medios de transporte sostenibles a través de recomendaciones del narrador. Algunas misiones están relacionadas con el respeto al medio ambiente.
 
 ---
@@ -108,6 +103,8 @@ Cada bloque de misiones sigue el siguiente proceso:
 - **[Página web de Naro Games](https://sites.google.com/view/narogames/home)**
 - **[LinkedIn de Naro Games](https://www.linkedin.com/company/narogames/)**
 
+---
+
 ### Logo de **Naro Games** (marca personal) y **CITM** (Dirección TFG):
 
 <div style="text-align: center;">
@@ -119,3 +116,6 @@ Cada bloque de misiones sigue el siguiente proceso:
   </div>
 </div>
 
+---
+
+**Página web CITM**: [CITM](https://www.citm.upc.edu/)
