@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/fdda9c30-10f0-4d8a-b015-1a1c8e275fbc" alt="Go!Yokosuka" width="400"/>
 </div>
 
-### Creado por [Naro Games (Ivan Romero)](https://www.linkedin.com/in/ivanromeromoyano/)
+### Creado por [Ivan Romero(Naro Games)](https://www.linkedin.com/in/ivanromeromoyano/)
 
 Visita nuestra página web: [narogames.com](https://sites.google.com/view/narogames/home)
 
